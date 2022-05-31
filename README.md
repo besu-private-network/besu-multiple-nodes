@@ -8,4 +8,5 @@ https://docs.docker.com/compose/install/
 
 ## How to run
 Execute `docker-compose up` on your local machine.
+
 Set your Node on your wallet such as Metamask or CustomWallet to http://localhost:8515
